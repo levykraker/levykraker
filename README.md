@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in DevOps solutions
 - 🌱 I’m currently learning K8s, Terraform and C#
 
 
