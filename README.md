@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/86d5414b-2375-470b-8888-0076bc938a3e/public_url)
 
-[![AWS Certified CloudOps Engineer – Associate](https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blop)](https://www.credly.com/badges/dbf95ff1-703e-4e0a-b7d9-5d9d3357dd1e/public_url)
+[![AWS Certified CloudOps Engineer – Associate](https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob)](https://www.credly.com/badges/dbf95ff1-703e-4e0a-b7d9-5d9d3357dd1e/public_url)
 
