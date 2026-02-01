@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 ![AWX](https://img.shields.io/badge/AWX-000000?logo=ansible&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
+
 
 
 
