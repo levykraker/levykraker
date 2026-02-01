@@ -1,6 +1,6 @@
 ### About me 
 - 👋 Hi, I’m Adrian
-- 👀 I’m interested in DevOps solutions
+- 👀 I work on and am passionate about DevOps solutions.
 - 🌱 I’m currently learning CI/CD
 
 
