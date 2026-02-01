@@ -20,6 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 ![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 
-[![AWS Certified Cloud Practitioner](<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/926f05d8-6313-496a-b9f3-c54069e5c6b0" />
-)](https://www.credly.com/badges/dbf95ff1-703e-4e0a-b7d9-5d9d3357dd1e/public_url)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob)](https://www.credly.com/badges/dbf95ff1-703e-4e0a-b7d9-5d9d3357dd1e/public_url)
 
