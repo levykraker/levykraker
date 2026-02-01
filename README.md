@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🛠 Skills/Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
 ![AWX](https://img.shields.io/badge/AWX-000000?logo=ansible&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
