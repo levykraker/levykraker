@@ -1,3 +1,4 @@
+### About me 
 - 👋 Hi, I’m Adrian
 - 👀 I’m interested in DevOps solutions
 - 🌱 I’m currently learning CI/CD
@@ -19,4 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 ![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dbf95ff1-703e-4e0a-b7d9-5d9d3357dd1e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/dbf95ff1-703e-4e0a-b7d9-5d9d3357dd1e.png)](https://www.credly.com/badges/dbf95ff1-703e-4e0a-b7d9-5d9d3357dd1e/public_url)
+
